@@ -1,1 +1,1 @@
-# clases_alumno_cursos-version1
+# mineria
